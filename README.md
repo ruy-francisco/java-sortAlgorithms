@@ -1,1 +1,1 @@
-Branch for trainig sort algorithms
+Branch for training sort algorithms
